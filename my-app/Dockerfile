@@ -14,3 +14,5 @@ RUN npm i && npm run build;
 
 # サーバープログラムの実行
 ENTRYPOINT [ "npm", "run", "start" ]
+
+#AAA
